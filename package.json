@@ -35,7 +35,7 @@
     "html-webpack-plugin": "2.29.0",
     "jest": "^24.8.0",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "macaddress": "^0.2.9",
     "mime": "^2.3.1",
     "mime-db": "^1.35.0",
